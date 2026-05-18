@@ -1,0 +1,11 @@
+# Tesla Stock Price Prediction — LSTM vs SimpleRNN
+# Install: pip install -r requirements.txt
+# Note: GridSearchCV tuning takes 15-25 minutes — this is expected.
+
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+scikit-learn>=1.1.0
+tensorflow>=2.10.0
+mlflow>=2.0.0
+jupyter>=1.0.0
